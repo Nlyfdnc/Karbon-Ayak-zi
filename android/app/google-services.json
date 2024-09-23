@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "794880012939",
+    "project_id": "carbonayak-62777",
+    "storage_bucket": "carbonayak-62777.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:794880012939:android:d7ee67f88339ff4b6a1a8e",
+        "android_client_info": {
+          "package_name": "com.example.carbonayak"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1bP9Y6T_o2z_WBk1_qsSF___VsK9sWZU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
